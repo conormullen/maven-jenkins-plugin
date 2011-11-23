@@ -1,0 +1,1 @@
+Maven Plugin used to generate Jenkins job configurations. Also would have the ability to use the Jenkins cli to upload the configuration as part of a Maven goal.
